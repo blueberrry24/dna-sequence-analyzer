@@ -40,8 +40,11 @@ Input your sequence when prompted or load the file.
 
 📁 **Project Structure**
 📦 DNA-Sequence-Analyzer
+
  ┣ 📄 dna_analyzer.py
+ 
  ┣ 📄 README.md
+ 
  ┗ 📄 sample_sequence.txt 
 
 🧬 **Code Used in This Project**
